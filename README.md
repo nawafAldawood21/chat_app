@@ -1,16 +1,21 @@
-# chat_app
+# Chat App 💬
 
-A new Flutter project.
+## What I will create
 
-## Getting Started
+I'm going to build a modern messaging app where users can sign up and log in to chat.
 
-This project is a starting point for a Flutter application.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## New things in Dart and Flutter I used to build the app👇🏻:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller.
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
