@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880367172105",
+    "project_id": "chat-app-10d8c",
+    "storage_bucket": "chat-app-10d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880367172105:android:bdcbe5a0fc33aa5fbd96d8",
+        "android_client_info": {
+          "package_name": "com.NawafAldawood.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880367172105-vpn8jf9co7ttmuihq0p641clis1bfc20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPVweHoNAsHUxXRFfAKWD73x9x7ioZ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880367172105-vpn8jf9co7ttmuihq0p641clis1bfc20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
